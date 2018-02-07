@@ -35,5 +35,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# ProjectFolder
 ProjectUnityYo/Library/
 ProjectUnityYo/UnityPackageManager/
+ProjectUnityYo/.vs/
+ProjectUnityYo/Temp/
