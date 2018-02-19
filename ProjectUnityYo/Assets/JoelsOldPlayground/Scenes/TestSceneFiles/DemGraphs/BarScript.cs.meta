@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8c331e8b680db4242b4f49628225f422
+timeCreated: 1517564756
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - barsText: {instanceID: 0}
+  - coroutineText: {instanceID: 0}
+  - barType: {fileID: 1342911161431360, guid: 85e7484c9212a804aae2b63de5f728ad, type: 2}
+  - barAmountSlider: {instanceID: 0}
+  - coroutineAmountSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
