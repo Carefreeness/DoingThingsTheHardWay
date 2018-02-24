@@ -6,6 +6,7 @@
 /Assets/AssetStoreTools*
 
 # A comment test
+# Amazing Feature in text
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -34,6 +35,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# ProjectFolderBruh
 ProjectUnityYo/Library/
 ProjectUnityYo/UnityPackageManager/
-ProjectUnityYo/.vs/ProjectUnityYo/v15/
+ProjectUnityYo/.vs/
+ProjectUnityYo/Temp/
+
+# I just wanted to do a pull request. Cuz reasons.. like changed some settings..

@@ -4,4 +4,22 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/JoelsOldPlayground/Scenes/MainMenu.unity
+    guid: 175c422aef4243148bd0c94889525e27
+  - enabled: 1
+    path: Assets/JoelsOldPlayground/Scenes/WaypointTest.unity
+    guid: 756b5d3459c32ff46bb7fa7cf42811ed
+  - enabled: 1
+    path: Assets/JoelsOldPlayground/Scenes/BarScene.unity
+    guid: 7b4a1b1015888f64a81317dea5374565
+  - enabled: 1
+    path: Assets/JoelsOldPlayground/Scenes/Gravity.unity
+    guid: 2e9fc4c06af503247bae8f32b3b597de
+  - enabled: 1
+    path: Assets/JoelsOldPlayground/Scenes/TeslaCoils.unity
+    guid: 7b38b38a33d5dc9468800552dd29c48a
+  - enabled: 1
+    path: Assets/JoelsOldPlayground/Scenes/TestScene2.unity
+    guid: 2d56d67f2b9ae61468abf66bdd0f1c72
